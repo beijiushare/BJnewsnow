@@ -11,7 +11,7 @@ export function Footer() {
       <span>
         <a href="https://news.beijiu.top/" target="_blank">https://news.beijiu.top/</a>
         <span>Forked By</span>
-        <a href=https://github.com/beijiushare" target="_blank">beijiushare</a>
+        <a href="https://github.com/beijiushare" target="_blank">beijiushare</a>
       </span>
     </>
   )
